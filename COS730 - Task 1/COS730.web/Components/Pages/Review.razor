@@ -1,0 +1,28 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject HttpClient Http
+
+<PageTitle>Review System</PageTitle>
+
+<h1>Intelligent Submission and Review System</h1>
+<hr/>
+<input type="text" title="Please input data" @bind="_dataInput"/>
+<br/>
+<hr/>
+<button class="btn btn-primary" @onclick="() => SubmitResearchOutput(_dataInput)">Submit data</button>
+<hr/>
+<h3>Output</h3>
+<h4>@(_response ?? "Awaiting submission")</h4>
+
+@code { 
+    private string _dataInput = "";
+    private string _response = "";
+    private async Task SubmitResearchOutput(string data)
+    {
+        var response = await Http.PostAsJsonAsync("https://localhost:5220/api/submission/review",  new {
+         Data = data
+        });
+        Console.Write(_response);
+        _response = response.IsSuccessStatusCode ? "Yippee" : "Failed validation";
+    }
+}

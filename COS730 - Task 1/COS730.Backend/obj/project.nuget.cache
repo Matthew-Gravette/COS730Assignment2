@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqovjCGE3oc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MatthewGravette\\RiderProjects\\COS730\\COS730.Backend\\COS730.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\microsoft.data.sqlite.core\\11.0.0-preview.3.26207.106\\microsoft.data.sqlite.core.11.0.0-preview.3.26207.106.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.2\\sourcegear.sqlite3.3.50.4.2.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.2\\sqlitepclraw.bundle_e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.2\\sqlitepclraw.config.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.core\\3.0.2\\sqlitepclraw.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

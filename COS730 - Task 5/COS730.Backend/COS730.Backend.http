@@ -1,0 +1,6 @@
+@COS730.Backend_HostAddress = http://localhost:5220
+
+GET {{COS730.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
