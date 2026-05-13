@@ -20,6 +20,6 @@ public class Reviewer
     public int SubmitScore()
     {
         var score = new Random();
-        return score.Next(0, 10);
+        return score.Next(4, 10);
     }
 }
