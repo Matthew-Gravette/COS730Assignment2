@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PwzFw7333DI=",
+  "dgSpecHash": "a7qtKGm+6VU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MatthewGravette\\RiderProjects\\COS730 - Task 5\\COS730.Backend\\COS730.Backend.csproj",
+  "projectFilePath": "C:\\Users\\MatthewGravette\\OneDrive - Agile Bridge\\Documents\\GitHub\\COS730Assignment2\\COS730 - Task 5\\COS730.Backend\\COS730.Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MatthewGravette\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
     "C:\\Users\\MatthewGravette\\.nuget\\packages\\microsoft.data.sqlite.core\\11.0.0-preview.3.26207.106\\microsoft.data.sqlite.core.11.0.0-preview.3.26207.106.nupkg.sha512",
@@ -12,17 +12,9 @@
     "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.2\\sqlitepclraw.bundle_e_sqlite3.3.0.2.nupkg.sha512",
     "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.2\\sqlitepclraw.config.e_sqlite3.3.0.2.nupkg.sha512",
     "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.core\\3.0.2\\sqlitepclraw.core.3.0.2.nupkg.sha512",
-    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512"
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\MatthewGravette\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\MatthewGravette\\RiderProjects\\COS730 - Task 5\\COS730.Backend\\COS730.Backend.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\MatthewGravette\\RiderProjects\\COS730 - Task 5\\COS730.Backend\\COS730.Backend.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

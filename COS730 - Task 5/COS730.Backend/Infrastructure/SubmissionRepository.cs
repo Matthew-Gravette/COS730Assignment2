@@ -16,11 +16,11 @@ public class SubmissionRepository(IConfiguration configuration)
             DateTime CreatedAt = DateTime.UtcNow;
             
             var query = connection.CreateCommand();
-            query.CommandText=@"INSERT INTO Submissions  (Data , CreatedAt) VALUES ($Data, $CreatedAt);";
+            query.CommandText=@"INSERT INTO Submissions  (Data , CreatedAt) VALUES ($Data, $CreatedAt) RETURNING Id;";
             query.Parameters.AddWithValue("$Data", data);
             query.Parameters.AddWithValue("$CreatedAt", CreatedAt);
-            int confirmation = await query.ExecuteNonQueryAsync();
-            return confirmation;
+            var id = await query.ExecuteScalarAsync();
+            return Convert.ToInt32(id);
         }
         catch (SqliteException e)
         {
