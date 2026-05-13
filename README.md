@@ -14,3 +14,17 @@ Here is a link to all relavent files
 - [NotificationService](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%201/COS730.Backend/Services/NotificationService.cs)
 
 - [UI](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%201/COS730.web/Components/Pages/Review.razor)
+
+## Task 5
+Here is a link to all relavent files
+- [SubmissionController](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/API/SubmissionController.cs)
+- [EvaluationService](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Application/EvaluationService.cs)
+- [NotificationService](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Application/NotificationService.cs)
+- [ReviewerService](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Application/ReviewerService.cs)
+- [SubmissionService](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Application/SubmissionService.cs)
+- [ValidationService](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Application/ValidationService.cs)
+- [ReviewerRepository](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Infrastructure/ReviewerRepository.cs)
+- [ScoreRepository](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Infrastructure/ScoreRepository.cs)
+- [SubmissionRepository](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Infrastructure/SubmissionRepository.cs)
+- [Reviewer](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Domain/Entities/Reviewer.cs)
+- [Score](https://github.com/Matthew-Gravette/COS730Assignment2/blob/main/COS730%20-%20Task%205/COS730.Backend/Domain/Entities/Score.cs)
