@@ -215,3 +215,4 @@ C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignme
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.Backend\obj\Debug\net10.0\COS730.Backend.pdb
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.Backend\obj\Debug\net10.0\COS730.Backend.genruntimeconfig.cache
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.Backend\obj\Debug\net10.0\ref\COS730.Backend.dll
+C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.Backend\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

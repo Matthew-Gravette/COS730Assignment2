@@ -237,8 +237,6 @@ C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignme
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\xe34z4y4re-{0}-63fj8s7r0e-63fj8s7r0e.gz
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\lnx2irz3hj-{0}-0j3bgjxly4-0j3bgjxly4.gz
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\59nh20nsxf-{0}-abdmv1u4y3-abdmv1u4y3.gz
-C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\aqxigofwlw-{0}-hwaxidwiwj-hwaxidwiwj.gz
-C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\xy0mt3gi2o-{0}-xbbil6v7co-xbbil6v7co.gz
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\oe7twjceqn-{0}-r8ub8lyuf7-r8ub8lyuf7.gz
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\compressed\4lnxy6ulhq-{0}-r8ub8lyuf7-r8ub8lyuf7.gz
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\staticwebassets.build.json
@@ -251,3 +249,4 @@ C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignme
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\COS730.web.pdb
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\COS730.web.genruntimeconfig.cache
 C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\ref\COS730.web.dll
+C:\Users\MatthewGravette\OneDrive - Agile Bridge\Documents\GitHub\COS730Assignment2\COS730 - Task 5\COS730.web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
